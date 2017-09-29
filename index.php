@@ -2,9 +2,7 @@
 $age = 30;
 $nombre = 8;
 $addi = $age + $nombre;
-echo "le resultat est = ";
-echo $addi;
+echo "le resultat est égale à $addi. ";
 $multi = $age * $nombre;
-echo "Pour la multiplication c'est =";
-echo $multi;
+echo " Et pour la multiplication c'est $multi.";
  ?>
